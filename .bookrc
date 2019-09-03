@@ -1,0 +1,22 @@
+{
+  "name": "Twenty Years After",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "Vingt Ans Après",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/vingt-ans-apres/master/assets",
+  "book_id": 1108,
+  "book_url": "https://bubblin.io/book/twenty-years-after-by-alexandre-dumas"
+}
